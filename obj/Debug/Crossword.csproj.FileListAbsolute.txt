@@ -1,0 +1,7 @@
+C:\Users\Олег\source\repos\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\Олег\source\repos\Crossword\bin\Debug\Crossword.exe
+C:\Users\Олег\source\repos\Crossword\bin\Debug\Crossword.pdb
+C:\Users\Олег\source\repos\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\Crossword\obj\Debug\Crossword.exe
+C:\Users\Олег\source\repos\Crossword\obj\Debug\Crossword.pdb
